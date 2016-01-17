@@ -1,2 +1,2 @@
-# design
-General design direction documentation
+# Timely Wealth Design
+General design direction documentation repository
